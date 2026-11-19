@@ -1,0 +1,15 @@
+{
+  "name": "backtestloop",
+  "owner": {
+    "name": "VectorSpell Ltd",
+    "email": "support@backtestloop.com"
+  },
+  "description": "BacktestLoop for Claude: backtest trading strategies from a conversation.",
+  "plugins": [
+    {
+      "name": "backtestloop",
+      "source": "./",
+      "description": "Backtest trading strategies with BacktestLoop: Claude writes the strategy code, BacktestLoop supplies the market data, runs it and stores the results. Simulation only, no real orders."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "backtestloop",
+  "displayName": "BacktestLoop",
+  "version": "0.2.2",
+  "description": "Backtest trading strategies with BacktestLoop: Claude writes the strategy code, BacktestLoop supplies the market data, runs it and stores the results. Simulation only, no real orders.",
+  "author": {
+    "name": "VectorSpell Ltd",
+    "url": "https://backtestloop.com"
+  },
+  "homepage": "https://backtestloop.com",
+  "repository": "https://github.com/VectorSpell/backtestloop-claude-plugin",
+  "privacyPolicyUrl": "https://backtestloop.com/privacy",
+  "license": "MIT",
+  "keywords": ["backtesting", "trading strategies", "vectorbt", "backtrader", "market data"]
+}
